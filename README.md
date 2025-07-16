@@ -8,3 +8,4 @@ ds320pat
 ds320oauth
 ds321pat
 ds321oauth
+ds322pat
