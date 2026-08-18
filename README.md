@@ -24,3 +24,4 @@ ds328pat
 ds328oauth
 ds329pat
 [ds329auth](https://github.com/testsfactory/private/tree/powerTesting)
+ds330pat
